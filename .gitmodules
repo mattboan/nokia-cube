@@ -1,0 +1,3 @@
+[submodule "components/pcd8544"]
+	path = components/pcd8544
+	url = https://github.com/mattboan/pcd8544
